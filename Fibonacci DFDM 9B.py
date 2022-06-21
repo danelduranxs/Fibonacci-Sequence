@@ -1,6 +1,6 @@
 print()
-print("Números de Fibonacci entre 0 y 1000")
-print("Por Daniel Felipe Durán Martínez 9B")
+print("NÃºmeros de Fibonacci entre 0 y 1000")
+print("Por Daniel Felipe DurÃ¡n MartÃ­nez")
 print()
 input("(Presione ENTER para iniciar)")
 print()
